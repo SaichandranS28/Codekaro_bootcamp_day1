@@ -1,0 +1,143 @@
+.box{
+    border: 1px solid lightgreen;
+    background-color: springgreen;
+    border-radius: 8px;
+    width: 550px;
+    margin: 200px auto;
+    text-align: justify;
+    padding: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn{
+    border: none;
+    border-radius: 50px;
+    padding: 12px 20px;
+    width: 35%;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.box2{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 300px;
+    margin: 40px auto;
+}
+.img{
+    width: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.btext{
+    padding: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: gray;
+}
+.mhead{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.mpara{
+    color: gray;
+    font-size: 15px;
+}
+.btn2{
+    border: 1px solid lightgray;
+    width: 45%;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: white;
+    color: blue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+.box3{
+    /* border: 1px solid lightgrey; */
+    width: 450px;
+    margin: auto;
+    /* padding: 20px; */
+    /* border-radius: 10px; */
+    text-align: center;
+}
+.lpara{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: bold;
+    font-size: 15px;
+}
+.input{
+    width: 70%;
+    margin-bottom: 10px;
+    padding: 18px;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.lbtn{
+    margin-top: 20px;
+    border: none;
+    width: 51%;
+    padding: 10px;
+    border-radius: 70px;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.mem{
+    color: gray;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.signup{
+    text-decoration: underline;
+    color: black;
+}
+.last{
+    margin-top: 40px;
+    color: gray;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lgray{
+    text-decoration: underline;
+}
+.profile{
+    border: 1px solid lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    width: 350px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 8px;
+}
+.gmat{
+    color: gray;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bmat{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: blue;
+    padding: 17px;
+    
+}
+.primg{
+    padding: 20px 35px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.primg2{
+    padding: 20px 45px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
